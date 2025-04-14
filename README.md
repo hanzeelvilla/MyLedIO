@@ -29,8 +29,8 @@ To begin using the **MyLedIO** library, follow these steps:
     - Connect the longer leg (anode) of the LED to a digital pin on your Arduino (e.g., pin 15).
     - Connect the shorter leg (cathode) to a resistor (220Ω recommended), then to GND.
 
-    > [!WARNING]
-    > Ensure the led is connected properly to avoid short circuits or damage to the board.
+> [!WARNING]
+> Ensure the led is connected properly to avoid short circuits or damage to the board.
 
 2.  **Include the library in your sketch**  
     Add this at the top of your `.ino` file:
